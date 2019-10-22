@@ -619,3 +619,5 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 * [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
+
+end.
